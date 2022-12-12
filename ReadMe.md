@@ -15,7 +15,6 @@ playground : Module that consists of /hello endpoint
 
 ### Run
 ```
- cd storefront
  python manage.py  runserver
 ```
 
